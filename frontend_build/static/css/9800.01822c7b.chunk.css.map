@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/9800.01822c7b.chunk.css","mappings":"AAAA,OACI,mBACA","sources":["components/Antd/Table/style.scss"],"sourcesContent":[".table{\n    background: #0d0d0d;\n    border-color: #0d0d0d;\n    \n}"],"names":[],"sourceRoot":""}

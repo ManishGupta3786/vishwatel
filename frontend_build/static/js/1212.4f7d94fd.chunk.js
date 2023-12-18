@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkvishwatel=self.webpackChunkvishwatel||[]).push([[1212],{21212:(e,s,a)=>{a.r(s),a.d(s,{default:()=>c});a(72791);var t=a(80184);const c=function(e){let{extraClassName:s,children:a}=e;return(0,t.jsx)(t.Fragment,{children:(0,t.jsx)("section",{className:"".concat(s),children:a})})}}}]);
+//# sourceMappingURL=1212.4f7d94fd.chunk.js.map

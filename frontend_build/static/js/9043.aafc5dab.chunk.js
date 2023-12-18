@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkvishwatel=self.webpackChunkvishwatel||[]).push([[9043],{89043:(t,n,e)=>{e.r(n),e.d(n,{default:()=>s});e(72791);var l=e(80184);const s=function(t){let{btnText:n,...e}=t;return(0,l.jsx)(l.Fragment,{children:(0,l.jsx)("button",{className:"btn btn-lg btn-outline-primary cancelButton mr-2 ml-2 my-3",...e,children:(0,l.jsx)("span",{children:n})})})}}}]);
+//# sourceMappingURL=9043.aafc5dab.chunk.js.map

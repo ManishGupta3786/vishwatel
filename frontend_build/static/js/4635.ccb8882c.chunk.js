@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkvishwatel=self.webpackChunkvishwatel||[]).push([[4635],{54635:(e,a,s)=>{s.r(a),s.d(a,{default:()=>l});s(72791);var n=s(73520),c=s(80184);const l=function(){return(0,c.jsx)(c.Fragment,{children:(0,c.jsx)("div",{className:"nk-block-head nk-block-head-sm",children:(0,c.jsx)("div",{className:"nk-block-between",children:(0,c.jsx)(n.PageHeader,{heading:"Dashboard | Survey"})})})})}}}]);
+//# sourceMappingURL=4635.ccb8882c.chunk.js.map

@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkvishwatel=self.webpackChunkvishwatel||[]).push([[2503],{82503:(e,n,s)=>{s.r(n),s.d(n,{default:()=>a});s(72791);var t=s(11087),l=s(80184);function a(){return(0,l.jsx)(l.Fragment,{children:(0,l.jsxs)(t.rU,{to:"#",className:"btn btn-white btn-outline-light",children:[(0,l.jsx)("em",{className:"icon ni ni-download-cloud"}),(0,l.jsx)("span",{children:"Export CSV"})]})})}}}]);
+//# sourceMappingURL=2503.bebc2f2e.chunk.js.map

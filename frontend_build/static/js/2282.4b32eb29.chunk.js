@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkvishwatel=self.webpackChunkvishwatel||[]).push([[2282],{12282:(e,t,n)=>{n.r(t),n.d(t,{default:()=>o});n(72791);var s=n(91082),l=n(80184);const o=function(e){let{children:t,onConfirm:n,...o}=e;return(0,l.jsx)(s.Z,{title:"Are you sure to delete this task?",onConfirm:()=>{n()},onCancel:()=>{},okText:"Yes",cancelText:"No",...o,children:t})}}}]);
+//# sourceMappingURL=2282.4b32eb29.chunk.js.map

@@ -1,0 +1,36 @@
+export const SIGNUP = {
+  VALID_EMAIL: "Please enter valid email address",
+  VALID_PASSWORD:
+    "Password should be at least one upper case char, one lower case char, one number, one special char",
+  MIN_PASSWORD: "Please enter minimum 5 digit password",
+  MAX_PASSWORD: "Please enter maximum 16 digit password",
+  PASSWORD_REQUIRED: "Please enter password",
+  VALID_MOBILE: "Please enter valid mobile number",
+  MOBILE_REQUIRED: "Please enter mobile number",
+  UNIT: "Please enter valid no. of unit",
+  UNIT_REQUIRED: "Please enter no. of unit",
+  VALID_DOB: "Please enter valid dob",
+  DOB_REQUIRED_: "Please enter dob",
+};
+
+export const PROPERTY = {
+  TITLE_REQUIRED: "Please enter property title",
+  PROPERTY_TYPE_REQUIRED: "Please enter the type of property",
+  DESCRIPTION_REQUIRED: "Please enter property description",
+  ADDRESS_REQUIRED: "Please enter property address",
+  COUNTRY_REQUIRED: "Please enter country",
+  CITY_REQUIRED: "Please enter city",
+  VALID_ZIP: "Please enter valid zip code",
+  ZIP_REQUIRED: "Please enter zip",
+  AMENITIES_REQUIRED: "Please enter amenities of your property",
+  VALID_PRICE: "Please enter valid price",
+  PRICE_REQUIRED: "Please enter property price",
+  VALID_BEDROOM: "Please enter valid bedroom",
+  BEDROOM_REQUIRED: "Please enter bedrooms",
+  VALID_BATHROOM: "Please enter valid bathroom",
+  BATHROOM_REQUIRED: "Please enter bathrooms",
+  VALID_AVAILABLEFROM: "Please enter valid available date",
+  AVAILABLEFROM_REQUIRED: "Please enter availabe date",
+  RULES_REQUIRED: "Please enter rules of your property",
+  LAT_LNG_REQUIRED: "Please enter your location",
+};
