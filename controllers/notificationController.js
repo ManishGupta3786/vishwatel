@@ -154,13 +154,3 @@ exports.updateNotification = async (req, res) => {
     }
 };
 
-
-// {
-//     "user_id": 13,
-//     "first_name":"manish",
-//     "last_name":"gupta",
-//     "posts":{
-//         "title":"diwali",
-//         "description":"wishing you a very happy diwali bro"
-//     }
-// }
