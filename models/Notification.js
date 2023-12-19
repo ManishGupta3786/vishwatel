@@ -19,15 +19,17 @@ module.exports = (sequelize, Sequelize) => {
             is_readed: {
                 type: Sequelize.BOOLEAN,
                 allowNull: false,
+                defaultValue: false
             },
             is_deleted: {
-                type: Sequelize.ENUM("1", "0"),
-                defaultValue: "1",
+                type: Sequelize.BOOLEAN,
+                defaultValue: false,
                 allowNull: true,
-              },
+            },
 
         },
         {
+            tableName: 'notifications',
             cust_creation_date: "created_at",
             cust_updated_date: "updated_at",
         }

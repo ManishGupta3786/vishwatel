@@ -6,6 +6,7 @@ const url = require("url");
 const path = require("path");
 const db = require("./models/index");
 require('dotenv').config();
+require('./config/associations.js')
 // Init app
 const app = express();
 //app.use(nocache());
@@ -48,6 +49,8 @@ app.use(function (req, res, next) {
 
 // Set routes
 require("./routes/custIndDetails.js")(app);
+require("./routes/notification.js")(app);
+require("./routes/referral.js")(app);
 const port = process.env.PORT || 8000;
 
 app.listen(port, function () {

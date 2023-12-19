@@ -1,7 +1,7 @@
 const MESSAGE = {
   USER_REGISTER_SUCCESS:
     "You have successfully registered to our site. Please check your email to verify your account.",
-  EMAIL_EXIST: "This email is already registered.",
+  EMAIL_EXIST: "This email or phone number is already registered.",
   EMAIL_EXIST_AND_VERIFIED:
     "This email is already exist in our record. Please check your gmail to verify",
   USER_NOT_EXIST: "User not registered",
@@ -26,6 +26,9 @@ const MESSAGE = {
   PROPERTY_ADD_SUCCESS: "Property added successfully.",
   PROPERTY_UPDATED_SUCCESS: "Property has been updated successfully",
   PROPERTY_DELETE_SUCCESS: "Property has been deleted successfully",
-  FORBIDDEN : "You are not allowed to get the data"
+  FORBIDDEN : "You are not allowed to get the data",
+  NOTIFICATION_CREATED_SUCCESS : "notification created and send successfully",
+  UPDATE_NOTIFICATION : "notification updated successfully.",
+  REFERRAL_CREATED_SUCCESS : "referral created successfully."
 };
 module.exports = MESSAGE;

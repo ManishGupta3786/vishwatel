@@ -10,6 +10,9 @@ const commonJSModule = require("../helper/common-function");
 const MESSAGE = require("../utils/messages/response");
 const { ResponseStatus } = constant;
 const Jwt = require("jsonwebtoken");
+const uuid = require('uuid');
+
+// const randomUUID = uuid.v4();
 // class CustIntDetailsController {
 // Registration
 exports.signup = async (req, res) => {
@@ -43,6 +46,7 @@ exports.signup = async (req, res) => {
       let paload = {
         first_name: firstName,
         last_name: lastName,
+        custUniqId: uuid.v4(),
         referral_by: referral_by ? referral_by : "",
         date_of_birth: dateOfBirth,
         country,

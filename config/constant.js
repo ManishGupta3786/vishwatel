@@ -16,5 +16,6 @@ var constant = {
 
     ServerError: 500,
   },
+  BASE_URL : "http://localhost:8000",
 };
 module.exports = constant;
